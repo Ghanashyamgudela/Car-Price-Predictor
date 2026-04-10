@@ -6,7 +6,7 @@ Built using **Streamlit**, this app uses a **Random Forest Regressor** with a **
 ---
 
 ## 🌐 Live Demo
-https://your-app-name.streamlit.app
+https://car-price-predictor-e2rbfcubj5w6hhveksnfm4.streamlit.app/
 
 ---
 
